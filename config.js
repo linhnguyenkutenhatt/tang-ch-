@@ -6,7 +6,7 @@ const CONFIG = {
     Đằng sau chữ yêu đây là thich dokk`,
     btnIntro: 'hihi',
     title: 'Em có kuteee khoongg? 😙',
-    desc: 'Màu xanh là có màu đỏ là khum ',
+    desc: 'Màu xanh là khum màu đỏ là có ',
     btnYes: 'Vẫn cứ là thích chị <33',
     btnNo: 'Ai cho mà chọn khôngg :3',
     question:'Đôi lời chúc mừng năm 2022 cho chiiiii <3',
