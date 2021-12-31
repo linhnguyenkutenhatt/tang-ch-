@@ -10,7 +10,7 @@ const CONFIG = {
     btnYes: 'Vẫn cứ là thích chị <33',
     btnNo: 'Ai cho mà chọn khôngg :3',
     question:'Đôi lời chúc mừng năm 2022 cho chiiiii <3',
-    btnReply: 'ấn dô đi chị <3',
+    btnReply: 'ấn dô đi chị <33',
     reply: 'chúc chị một năm mới thật zz',
     mess: 'Không được khóc 🥰. không được buồn 😘😘',
     messDesc: 'earn more money hon =))).',
